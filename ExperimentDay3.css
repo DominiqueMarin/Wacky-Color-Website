@@ -1,0 +1,55 @@
+body{
+  background-image: url("colorgif.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p{
+  font-size: 80px;
+}
+
+p.red{
+  color: blue;
+}
+
+p.red:hover{
+  color: red;
+}
+
+p.orange{
+  color: darkgreen;
+}
+
+p.orange:hover{
+  color: orange;
+}
+
+p.yellow{
+  color: purple;
+}
+
+p.yellow:hover{
+  color: yellow;
+}
+
+p.green{
+  color: lightblue;
+}
+
+p.green:hover{
+  color: green;
+}
+
+p.purple{
+  color: yellow;
+}
+
+p.purple:hover{
+  color: purple;
+}
+
+h1{
+  font-size: 100px;
+  color: white;
+  background-color: black;
+}
